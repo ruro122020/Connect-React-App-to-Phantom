@@ -2,7 +2,7 @@ Connection a React application to the phantom wallet
 
 ### Phantom
 
-(Phantom docs)[https://docs.phantom.app/integrating/establishing-a-connection]
+[Phantom docs](https://docs.phantom.app/integrating/establishing-a-connection)
 
 # Getting Started with Create React App
 
